@@ -10,7 +10,6 @@ function activar( quien:string,
         mensaje  = `${ quien } activó la ${ objeto }`;
     }
 
-
     console.log(mensaje);
 }
 
