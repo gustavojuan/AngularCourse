@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: []
 })
 export class AppComponent {
-  nombre:string  = "Gustavo";
-  apellido:string = "Juan";
 }
