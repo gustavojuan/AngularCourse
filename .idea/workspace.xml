@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e650e9-850c-4087-a58a-3dc7aae187d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/app/app.routes.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/A-64.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/aquaman.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/batman.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/daredevil.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/hulk.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/linterna-verde.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/spiderman.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/assets/img/wolverine.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SPA/src/favicon.ico" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,12 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="navbar.component.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SPA/src/app/components/shared/navbar/navbar.component.html">
+      <file leaf-file-name="heroes.service.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SPA/src/app/servicios/heroes.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heroes.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,15 +101,17 @@
         <option value="$PROJECT_DIR$/SPA/src/index.html" />
         <option value="$PROJECT_DIR$/SPA/src/assets/js/popper.js" />
         <option value="$PROJECT_DIR$/SPA/src/app/components/about/about.component.ts" />
-        <option value="$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.ts" />
-        <option value="$PROJECT_DIR$/SPA/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/SPA/src/app/app.routes.ts" />
         <option value="$PROJECT_DIR$/SPA/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/holamundo/src/styles.css" />
-        <option value="$PROJECT_DIR$/SPA/src/styles.css" />
         <option value="$PROJECT_DIR$/SPA/src/app/components/about/about.component.html" />
         <option value="$PROJECT_DIR$/SPA/src/app/components/home/home.component.html" />
         <option value="$PROJECT_DIR$/SPA/src/app/components/shared/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/SPA/src/styles.css" />
+        <option value="$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.html" />
+        <option value="$PROJECT_DIR$/SPA/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.ts" />
+        <option value="$PROJECT_DIR$/SPA/src/app/servicios/heroes.service.ts" />
       </list>
     </option>
   </component>
@@ -168,6 +172,30 @@
               <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
               <item name="SPA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="SPA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="SPA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="heroes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="SPA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -193,7 +221,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="na&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/components/shared/navbar/navbar.component.html&#10;home&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/components/home/home.component.html&#10;sty&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/holamundo/src/styles.css&#10;nav&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/components/shared/navbar/navbar.component.html&#10;angular&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/.angular-cli.json" />
+    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/app.module.ts&#10;s&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/styles.css&#10;na&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/components/shared/navbar/navbar.component.html&#10;home&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/components/home/home.component.html&#10;sty&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/holamundo/src/styles.css&#10;nav&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/src/app/components/shared/navbar/navbar.component.html&#10;angular&#9;FILE&#9;file://D:/Documentos/Proyectos/formacion/AngularCourse/SPA/.angular-cli.json" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,12 +268,12 @@
       <workItem from="1515671459016" duration="1145000" />
       <workItem from="1515672644787" duration="57000" />
       <workItem from="1515672729631" duration="11007000" />
-      <workItem from="1515740121311" duration="3728000" />
+      <workItem from="1515740121311" duration="6917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20937000" />
+    <option name="totallyTimeSpent" value="24126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,6 +286,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -268,7 +297,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -309,13 +338,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/typescript_1/decoradores/app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/holamundo/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -597,38 +619,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SPA/src/app/components/about/about.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPA/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-            <element signature="e#182#229#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -674,14 +669,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPA/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SPA/src/app/components/about/about.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -698,10 +685,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SPA/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SPA/src/app/components/shared/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="312">
+          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPA/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#242#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPA/src/app/servicios/heroes.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
           <folding />
         </state>
       </provider>
