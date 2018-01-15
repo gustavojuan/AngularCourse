@@ -2,160 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e650e9-850c-4087-a58a-3dc7aae187d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/app/app.routes.ts" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-grid.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-grid.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-reboot.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/album.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/artist.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/banner-ico.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/ed-sheeran.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/heroes.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/metallica.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/music.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/noimage.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/slide-1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/slide-2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/img/slide-3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/jquery-3.2.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spotiang/src/assets/js/popper.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3. pipes/src/app/pipes/password.pipe.ts" afterPath="$PROJECT_DIR$/3. pipes/src/app/pipes/password.pipe.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/.angular-cli.json" afterPath="$PROJECT_DIR$/2. SPA/.angular-cli.json" />
-      <change beforePath="$PROJECT_DIR$/SPA/.editorconfig" afterPath="$PROJECT_DIR$/2. SPA/.editorconfig" />
-      <change beforePath="$PROJECT_DIR$/SPA/.gitignore" afterPath="$PROJECT_DIR$/2. SPA/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/SPA/README.md" afterPath="$PROJECT_DIR$/2. SPA/README.md" />
-      <change beforePath="$PROJECT_DIR$/SPA/e2e/app.e2e-spec.ts" afterPath="$PROJECT_DIR$/2. SPA/e2e/app.e2e-spec.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/e2e/app.po.ts" afterPath="$PROJECT_DIR$/2. SPA/e2e/app.po.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/e2e/tsconfig.e2e.json" afterPath="$PROJECT_DIR$/2. SPA/e2e/tsconfig.e2e.json" />
-      <change beforePath="$PROJECT_DIR$/SPA/karma.conf.js" afterPath="$PROJECT_DIR$/2. SPA/karma.conf.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/package.json" afterPath="$PROJECT_DIR$/2. SPA/package.json" />
-      <change beforePath="$PROJECT_DIR$/SPA/protractor.conf.js" afterPath="$PROJECT_DIR$/2. SPA/protractor.conf.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/app.component.css" afterPath="$PROJECT_DIR$/2. SPA/src/app/app.component.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/app.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/app.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/app.component.spec.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/app.component.spec.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/app.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/app.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/app.module.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/app.module.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/app.routes.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/app.routes.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/about/about.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/about/about.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/about/about.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/about/about.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/heroe/heroe.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/heroe/heroe.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/heroe/heroe.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/heroe/heroe.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/heroes/heroes.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/heroes/heroes.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/heroes/heroes.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/home/home.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/home/home.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/home/home.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/home/home.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/searchheroe/searchheroe.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/searchheroe/searchheroe.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/searchheroe/searchheroe.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/searchheroe/searchheroe.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/shared/navbar/navbar.component.html" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/shared/navbar/navbar.component.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/components/shared/navbar/navbar.component.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/components/shared/navbar/navbar.component.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/app/servicios/heroes.service.ts" afterPath="$PROJECT_DIR$/2. SPA/src/app/servicios/heroes.service.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/.gitkeep" afterPath="$PROJECT_DIR$/2. SPA/src/assets/.gitkeep" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-grid.css" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-grid.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-grid.css.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-grid.css.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-grid.min.css" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-grid.min.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-grid.min.css.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-grid.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-reboot.css" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-reboot.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-reboot.css.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-reboot.css.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-reboot.min.css" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-reboot.min.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap-reboot.min.css.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/A-64.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/A-64.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/aquaman.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/aquaman.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/batman.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/batman.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/daredevil.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/daredevil.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/dc.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/dc.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/hulk.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/hulk.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/linterna-verde.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/linterna-verde.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/marvel.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/marvel.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/spiderman.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/spiderman.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/img/wolverine.png" afterPath="$PROJECT_DIR$/2. SPA/src/assets/img/wolverine.png" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.bundle.js" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.bundle.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.bundle.js.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.bundle.min.js" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.bundle.min.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.bundle.min.js.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.js.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.js.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/bootstrap.min.js.map" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/bootstrap.min.js.map" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/jquery-3.2.1.min.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/assets/js/popper.js" afterPath="$PROJECT_DIR$/2. SPA/src/assets/js/popper.js" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/environments/environment.prod.ts" afterPath="$PROJECT_DIR$/2. SPA/src/environments/environment.prod.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/environments/environment.ts" afterPath="$PROJECT_DIR$/2. SPA/src/environments/environment.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/favicon.ico" afterPath="$PROJECT_DIR$/2. SPA/src/favicon.ico" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/index.html" afterPath="$PROJECT_DIR$/2. SPA/src/index.html" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/main.ts" afterPath="$PROJECT_DIR$/2. SPA/src/main.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/polyfills.ts" afterPath="$PROJECT_DIR$/2. SPA/src/polyfills.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/styles.css" afterPath="$PROJECT_DIR$/2. SPA/src/styles.css" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/test.ts" afterPath="$PROJECT_DIR$/2. SPA/src/test.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/tsconfig.app.json" afterPath="$PROJECT_DIR$/2. SPA/src/tsconfig.app.json" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/tsconfig.spec.json" afterPath="$PROJECT_DIR$/2. SPA/src/tsconfig.spec.json" />
-      <change beforePath="$PROJECT_DIR$/SPA/src/typings.d.ts" afterPath="$PROJECT_DIR$/2. SPA/src/typings.d.ts" />
-      <change beforePath="$PROJECT_DIR$/SPA/tsconfig.json" afterPath="$PROJECT_DIR$/2. SPA/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/SPA/tslint.json" afterPath="$PROJECT_DIR$/2. SPA/tslint.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/_blank/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/_blank/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/_blank/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/_blank/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/_blank/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/_blank/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/_blank/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/_blank/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/basic/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/basic/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/arrow.js" afterPath="$PROJECT_DIR$/0. typescript_1/basic/arrow.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/arrow.ts" afterPath="$PROJECT_DIR$/0. typescript_1/basic/arrow.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/basic/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/literales.js" afterPath="$PROJECT_DIR$/0. typescript_1/basic/literales.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/literales.ts" afterPath="$PROJECT_DIR$/0. typescript_1/basic/literales.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/parametros.js" afterPath="$PROJECT_DIR$/0. typescript_1/basic/parametros.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/parametros.ts" afterPath="$PROJECT_DIR$/0. typescript_1/basic/parametros.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/tipos.js" afterPath="$PROJECT_DIR$/0. typescript_1/basic/tipos.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/tipos.ts" afterPath="$PROJECT_DIR$/0. typescript_1/basic/tipos.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/basic/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/basic/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/decoradores/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/decoradores/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/decoradores/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/decoradores/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/decoradores/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/decoradores/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/decoradores/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/decoradores/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/interfaces/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/interfaces/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/interfaces/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/interfaces/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/interfaces/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/interfaces/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/interfaces/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/interfaces/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/intro_poo/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/intro_poo/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/intro_poo/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/intro_poo/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/intro_poo/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/intro_poo/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/intro_poo/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/intro_poo/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/clases/index.js" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/clases/index.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/clases/index.ts" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/clases/index.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/clases/villanos.class.js" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/clases/villanos.class.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/clases/villanos.class.ts" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/clases/villanos.class.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/clases/xmen.class.js" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/clases/xmen.class.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/clases/xmen.class.ts" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/clases/xmen.class.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/modulos/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/modulos/tsconfig.json" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/promises/app.js" afterPath="$PROJECT_DIR$/0. typescript_1/promises/app.js" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/promises/app.ts" afterPath="$PROJECT_DIR$/0. typescript_1/promises/app.ts" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/promises/index.html" afterPath="$PROJECT_DIR$/0. typescript_1/promises/index.html" />
-      <change beforePath="$PROJECT_DIR$/typescript_1/promises/tsconfig.json" afterPath="$PROJECT_DIR$/0. typescript_1/promises/tsconfig.json" />
+      <change beforePath="$PROJECT_DIR$/spotiang/src/app/app.module.ts" afterPath="$PROJECT_DIR$/spotiang/src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.html" afterPath="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.html" />
+      <change beforePath="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts" afterPath="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts" />
+      <change beforePath="$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts" afterPath="$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -172,23 +23,43 @@
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spotiang/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="192">
+              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
                 <element signature="e#272#319#0" expanded="true" />
                 <element signature="e#549#609#0" expanded="true" />
-                <marker date="1516020572017" expanded="true" signature="880:1046" ph="{...}" />
+                <element signature="e#691#742#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spotify.service.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="domseguro.pipe.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3. pipes/src/app/pipes/domseguro.pipe.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domseguro.pipe.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spotiang/src/app/pipes/domseguro.pipe.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spotify.service.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+            <state relative-caret-position="416">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="n#!!block;n#constructor#0;n#SpotifyService#0" expanded="false" />
                 <element signature="n#!!block;n#getHeaders#0;n#SpotifyService#0" expanded="false" />
@@ -222,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="artist.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="artist.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            <state relative-caret-position="244">
+              <caret line="52" column="100" lean-forward="false" selection-start-line="52" selection-start-column="100" selection-end-line="52" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -245,8 +116,8 @@
       <file leaf-file-name="artist.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+            <state relative-caret-position="364">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -297,7 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/holamundo/src/app/components/header.component.html" />
         <option value="$PROJECT_DIR$/holamundo/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/holamundo/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/holamundo/src/app/footer/footer.component.ts" />
@@ -339,15 +209,16 @@
         <option value="$PROJECT_DIR$/spotiang/src/app/components/shared/navbar/navbar.component.html" />
         <option value="$PROJECT_DIR$/spotiang/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/spotiang/src/app/components/home/home.component.html" />
-        <option value="$PROJECT_DIR$/spotiang/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/spotiang/src/app/pipes/sinfoto.pipe.ts" />
         <option value="$PROJECT_DIR$/spotiang/src/app/components/search/search.component.html" />
         <option value="$PROJECT_DIR$/spotiang/src/app/app.routes.ts" />
         <option value="$PROJECT_DIR$/spotiang/src/app/components/search/search.component.ts" />
-        <option value="$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts" />
-        <option value="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts" />
         <option value="$PROJECT_DIR$/spotiang/src/styles.css" />
+        <option value="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts" />
         <option value="$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.html" />
+        <option value="$PROJECT_DIR$/spotiang/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/spotiang/src/app/pipes/domseguro.pipe.ts" />
+        <option value="$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts" />
       </list>
     </option>
   </component>
@@ -420,42 +291,6 @@
               <item name="spotiang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="spotiang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="artist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="spotiang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="spotiang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="navbar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="spotiang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="pipes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -465,21 +300,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="spotiang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AngularCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="spotiang" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -546,12 +366,12 @@
       <workItem from="1515672729631" duration="11007000" />
       <workItem from="1515740121311" duration="14416000" />
       <workItem from="1515999189656" duration="917000" />
-      <workItem from="1516001165734" duration="25146000" />
+      <workItem from="1516001165734" duration="26187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57688000" />
+    <option name="totallyTimeSpent" value="58729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -567,7 +387,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
@@ -608,13 +428,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2. SPA/node_modules/bootstrap/dist/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2. SPA/node_modules/bootstrap/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -799,16 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3. pipes/src/app/pipes/domseguro.pipe.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#52#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3. pipes/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -940,19 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-            <element signature="e#272#319#0" expanded="true" />
-            <element signature="e#549#609#0" expanded="true" />
-            <marker date="1516020572017" expanded="true" signature="880:1046" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spotiang/src/app/pipes/sinfoto.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -977,34 +767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="43" column="72" lean-forward="true" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
-          <folding>
-            <element signature="n#!!block;n#constructor#0;n#SpotifyService#0" expanded="false" />
-            <element signature="n#!!block;n#getHeaders#0;n#SpotifyService#0" expanded="false" />
-            <element signature="e#524#575#0" expanded="false" />
-            <element signature="n#!!block;n#getArtists#0;n#SpotifyService#0" expanded="false" />
-            <element signature="e#838#950#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/search/search.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
@@ -1019,11 +785,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spotiang/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#272#319#0" expanded="true" />
+            <element signature="e#549#609#0" expanded="true" />
+            <element signature="e#691#742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. pipes/src/app/pipes/domseguro.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spotiang/src/app/pipes/domseguro.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        <state relative-caret-position="244">
+          <caret line="52" column="100" lean-forward="false" selection-start-line="52" selection-start-column="100" selection-end-line="52" selection-end-column="100" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#constructor#0;n#SpotifyService#0" expanded="false" />
+            <element signature="n#!!block;n#getHeaders#0;n#SpotifyService#0" expanded="false" />
+            <element signature="e#524#575#0" expanded="false" />
+            <element signature="n#!!block;n#getArtists#0;n#SpotifyService#0" expanded="false" />
+            <element signature="e#838#950#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
