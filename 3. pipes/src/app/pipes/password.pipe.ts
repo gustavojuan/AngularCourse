@@ -10,7 +10,7 @@ export class PasswordPipe implements PipeTransform {
     let pass:string='';
 
     if(active){
-      for(let i in value){
+      for(let i=0; i< value.length;i++){
         pass+='*'
       }
     }else{
