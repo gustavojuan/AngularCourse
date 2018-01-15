@@ -114,12 +114,12 @@
 
     <tr>
       <td>{{ contrasena }}</td>
-      <td>Password</td>
-      <td>{{ contrasena | password:param }}</td>
+      <td>Password:{{ active }}</td>
+      <td>{{ contrasena | password:active }}</td>
 
     </tr>
-    <button *ngIf="param == false" type="button" (click)="param=true"  class="btn btn-outline-primary btn-block">Change Pipe</button>
-    <button *ngIf="param == true" type="button" (click)="param=false"  class="btn btn-outline-primary btn-block">Change Pipe</button>
+    <button  type="button" (click)="active = !active"  class="btn btn-outline-primary btn-block">Activar/Desactivar</button>
+
 
 
     </tbody>

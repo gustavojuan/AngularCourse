@@ -38,7 +38,7 @@ export class AppComponent {
 
 
   contrasena= "abcdef";
-  param = true;
+  active:boolean = true;
 
 
 
