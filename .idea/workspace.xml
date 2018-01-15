@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e650e9-850c-4087-a58a-3dc7aae187d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/holamundo/.angular-cli.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/e2e/app.e2e-spec.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/e2e/app.po.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/e2e/tsconfig.e2e.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/karma.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/protractor.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/app.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/app.component.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/app.module.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/components/body.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/components/body.component.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/components/header.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/components/header.component.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/footer/footer.component.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/app/footer/footer.component.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/assets/.gitkeep" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/environments/environment.prod.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/environments/environment.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/main.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/polyfills.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/styles.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/test.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/tsconfig.app.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/tsconfig.spec.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/src/typings.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/tsconfig.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/holamundo/tslint.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,7 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/spotiang/src/app/components/search/search.component.ts" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/4. spotiang/src/app/components/search/search.component.ts" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/1. holamundo/src/app/components/body.component.ts" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/3. pipes/src/app/app.component.ts" root0="SKIP_INSPECTION" />
   </component>
@@ -144,7 +112,7 @@
     <handled-path value="$PROJECT_DIR$/1. holamundo/node_modules" />
     <handled-path value="$PROJECT_DIR$/2. SPA/node_modules" />
     <handled-path value="$PROJECT_DIR$/3. pipes/node_modules" />
-    <handled-path value="$PROJECT_DIR$/spotiang/node_modules" />
+    <handled-path value="$PROJECT_DIR$/4. spotiang/node_modules" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/2. SPA/package.json" />
@@ -244,12 +212,12 @@
       <workItem from="1515672729631" duration="11007000" />
       <workItem from="1515740121311" duration="14416000" />
       <workItem from="1515999189656" duration="917000" />
-      <workItem from="1516001165734" duration="26480000" />
+      <workItem from="1516001165734" duration="26597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59022000" />
+    <option name="totallyTimeSpent" value="59139000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,7 +240,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25869566" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869566" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -291,11 +259,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/spotiang/node_modules/karma/config.tpl.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -532,7 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/assets/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/assets/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -548,7 +511,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/index.html">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
           <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
@@ -556,12 +519,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/assets/img/artist.png">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/assets/img/artist.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/home/home.component.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/home/home.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -585,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/shared/navbar/navbar.component.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/shared/navbar/navbar.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -593,7 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/shared/navbar/navbar.component.html">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/shared/navbar/navbar.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
@@ -604,7 +567,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -612,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/home/home.component.html">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
@@ -620,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/pipes/sinfoto.pipe.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/pipes/sinfoto.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="52" lean-forward="false" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
@@ -628,7 +591,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/app.routes.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/app.routes.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
@@ -636,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/search/search.component.html">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/search/search.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-16">
           <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
@@ -644,7 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/search/search.component.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/search/search.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -654,7 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/styles.css">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
@@ -662,7 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/artist/artist.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -672,7 +635,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
@@ -693,7 +656,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/pipes/domseguro.pipe.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/pipes/domseguro.pipe.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
@@ -701,7 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/components/artist/artist.component.html">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/components/artist/artist.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="52" column="100" lean-forward="false" selection-start-line="52" selection-start-column="100" selection-end-line="52" selection-end-column="100" />
@@ -709,7 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spotiang/src/app/services/spotify.service.ts">
+    <entry file="file://$PROJECT_DIR$/4. spotiang/src/app/services/spotify.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="9" column="103" lean-forward="true" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="103" />
